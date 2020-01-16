@@ -1,0 +1,11 @@
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.exe
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.deps.json
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.runtimeconfig.json
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.runtimeconfig.dev.json
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.dll
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\ThreadPool.pdb
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.csprojAssemblyReference.cache
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.AssemblyInfo.cs
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.dll
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\ThreadPool.pdb

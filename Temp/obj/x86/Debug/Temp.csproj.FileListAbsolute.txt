@@ -1,0 +1,4 @@
+D:\Practice\sln\sln\Temp\bin\Debug\Temp.exe
+D:\Practice\sln\sln\Temp\bin\Debug\Temp.pdb
+D:\Practice\sln\sln\Temp\obj\x86\Debug\Temp.exe
+D:\Practice\sln\sln\Temp\obj\x86\Debug\Temp.pdb

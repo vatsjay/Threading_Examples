@@ -1,0 +1,11 @@
+D:\Practice\sln\sln\ThreadInitialization\bin\Debug\netcoreapp3.1\ThreadInitialization.exe
+D:\Practice\sln\sln\ThreadInitialization\bin\Debug\netcoreapp3.1\ThreadInitialization.deps.json
+D:\Practice\sln\sln\ThreadInitialization\bin\Debug\netcoreapp3.1\ThreadInitialization.runtimeconfig.json
+D:\Practice\sln\sln\ThreadInitialization\bin\Debug\netcoreapp3.1\ThreadInitialization.runtimeconfig.dev.json
+D:\Practice\sln\sln\ThreadInitialization\bin\Debug\netcoreapp3.1\ThreadInitialization.dll
+D:\Practice\sln\sln\ThreadInitialization\bin\Debug\netcoreapp3.1\ThreadInitialization.pdb
+D:\Practice\sln\sln\ThreadInitialization\obj\Debug\netcoreapp3.1\ThreadInitialization.csprojAssemblyReference.cache
+D:\Practice\sln\sln\ThreadInitialization\obj\Debug\netcoreapp3.1\ThreadInitialization.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\ThreadInitialization\obj\Debug\netcoreapp3.1\ThreadInitialization.AssemblyInfo.cs
+D:\Practice\sln\sln\ThreadInitialization\obj\Debug\netcoreapp3.1\ThreadInitialization.dll
+D:\Practice\sln\sln\ThreadInitialization\obj\Debug\netcoreapp3.1\ThreadInitialization.pdb

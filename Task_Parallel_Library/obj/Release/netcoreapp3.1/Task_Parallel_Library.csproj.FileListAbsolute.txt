@@ -1,0 +1,10 @@
+D:\Practice\sln\sln\Task_Parallel_Library\bin\Release\netcoreapp3.1\Task_Parallel_Library.exe
+D:\Practice\sln\sln\Task_Parallel_Library\bin\Release\netcoreapp3.1\Task_Parallel_Library.deps.json
+D:\Practice\sln\sln\Task_Parallel_Library\bin\Release\netcoreapp3.1\Task_Parallel_Library.runtimeconfig.json
+D:\Practice\sln\sln\Task_Parallel_Library\bin\Release\netcoreapp3.1\Task_Parallel_Library.runtimeconfig.dev.json
+D:\Practice\sln\sln\Task_Parallel_Library\bin\Release\netcoreapp3.1\Task_Parallel_Library.dll
+D:\Practice\sln\sln\Task_Parallel_Library\bin\Release\netcoreapp3.1\Task_Parallel_Library.pdb
+D:\Practice\sln\sln\Task_Parallel_Library\obj\Release\netcoreapp3.1\Task_Parallel_Library.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\Task_Parallel_Library\obj\Release\netcoreapp3.1\Task_Parallel_Library.AssemblyInfo.cs
+D:\Practice\sln\sln\Task_Parallel_Library\obj\Release\netcoreapp3.1\Task_Parallel_Library.dll
+D:\Practice\sln\sln\Task_Parallel_Library\obj\Release\netcoreapp3.1\Task_Parallel_Library.pdb

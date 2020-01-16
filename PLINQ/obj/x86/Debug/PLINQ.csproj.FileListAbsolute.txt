@@ -1,0 +1,5 @@
+D:\Practice\sln\sln\PLINQ\bin\Debug\PLINQ.exe
+D:\Practice\sln\sln\PLINQ\bin\Debug\PLINQ.pdb
+D:\Practice\sln\sln\PLINQ\obj\x86\Debug\PLINQ.csprojAssemblyReference.cache
+D:\Practice\sln\sln\PLINQ\obj\x86\Debug\PLINQ.exe
+D:\Practice\sln\sln\PLINQ\obj\x86\Debug\PLINQ.pdb

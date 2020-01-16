@@ -1,0 +1,4 @@
+D:\Practice\sln\sln\Debugging1\bin\Debug\Debugging.exe
+D:\Practice\sln\sln\Debugging1\bin\Debug\Debugging.pdb
+D:\Practice\sln\sln\Debugging1\obj\x86\Debug\Debugging.exe
+D:\Practice\sln\sln\Debugging1\obj\x86\Debug\Debugging.pdb

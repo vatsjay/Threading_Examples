@@ -1,0 +1,10 @@
+D:\Practice\sln\sln\background_worker\bin\Debug\netcoreapp3.1\background_worker.exe
+D:\Practice\sln\sln\background_worker\bin\Debug\netcoreapp3.1\background_worker.deps.json
+D:\Practice\sln\sln\background_worker\bin\Debug\netcoreapp3.1\background_worker.runtimeconfig.json
+D:\Practice\sln\sln\background_worker\bin\Debug\netcoreapp3.1\background_worker.runtimeconfig.dev.json
+D:\Practice\sln\sln\background_worker\bin\Debug\netcoreapp3.1\background_worker.dll
+D:\Practice\sln\sln\background_worker\bin\Debug\netcoreapp3.1\background_worker.pdb
+D:\Practice\sln\sln\background_worker\obj\Debug\netcoreapp3.1\background_worker.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\background_worker\obj\Debug\netcoreapp3.1\background_worker.AssemblyInfo.cs
+D:\Practice\sln\sln\background_worker\obj\Debug\netcoreapp3.1\background_worker.dll
+D:\Practice\sln\sln\background_worker\obj\Debug\netcoreapp3.1\background_worker.pdb

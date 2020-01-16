@@ -1,0 +1,11 @@
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\AsyncAwait.exe
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\AsyncAwait.deps.json
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.json
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\AsyncAwait.runtimeconfig.dev.json
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\Practice\sln\sln\ThreadPool\bin\Debug\netcoreapp3.1\AsyncAwait.pdb
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\AsyncAwait.csprojAssemblyReference.cache
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\AsyncAwait.AssemblyInfo.cs
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\AsyncAwait.dll
+D:\Practice\sln\sln\ThreadPool\obj\Debug\netcoreapp3.1\AsyncAwait.pdb

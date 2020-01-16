@@ -1,0 +1,4 @@
+D:\Practice\sln\sln\Debugging2\bin\Debug\Deadlocks.exe
+D:\Practice\sln\sln\Debugging2\bin\Debug\Deadlocks.pdb
+D:\Practice\sln\sln\Debugging2\obj\x86\Debug\Deadlocks.exe
+D:\Practice\sln\sln\Debugging2\obj\x86\Debug\Deadlocks.pdb

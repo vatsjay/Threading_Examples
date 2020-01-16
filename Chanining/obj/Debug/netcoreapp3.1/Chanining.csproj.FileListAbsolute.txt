@@ -1,0 +1,10 @@
+D:\Practice\sln\sln\Chanining\bin\Debug\netcoreapp3.1\Chanining.exe
+D:\Practice\sln\sln\Chanining\bin\Debug\netcoreapp3.1\Chanining.deps.json
+D:\Practice\sln\sln\Chanining\bin\Debug\netcoreapp3.1\Chanining.runtimeconfig.json
+D:\Practice\sln\sln\Chanining\bin\Debug\netcoreapp3.1\Chanining.runtimeconfig.dev.json
+D:\Practice\sln\sln\Chanining\bin\Debug\netcoreapp3.1\Chanining.dll
+D:\Practice\sln\sln\Chanining\bin\Debug\netcoreapp3.1\Chanining.pdb
+D:\Practice\sln\sln\Chanining\obj\Debug\netcoreapp3.1\Chanining.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\Chanining\obj\Debug\netcoreapp3.1\Chanining.AssemblyInfo.cs
+D:\Practice\sln\sln\Chanining\obj\Debug\netcoreapp3.1\Chanining.dll
+D:\Practice\sln\sln\Chanining\obj\Debug\netcoreapp3.1\Chanining.pdb

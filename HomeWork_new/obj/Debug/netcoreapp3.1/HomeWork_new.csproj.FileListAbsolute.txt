@@ -1,0 +1,10 @@
+D:\Practice\sln\sln\HomeWork_new\bin\Debug\netcoreapp3.1\HomeWork_new.exe
+D:\Practice\sln\sln\HomeWork_new\bin\Debug\netcoreapp3.1\HomeWork_new.deps.json
+D:\Practice\sln\sln\HomeWork_new\bin\Debug\netcoreapp3.1\HomeWork_new.runtimeconfig.json
+D:\Practice\sln\sln\HomeWork_new\bin\Debug\netcoreapp3.1\HomeWork_new.runtimeconfig.dev.json
+D:\Practice\sln\sln\HomeWork_new\bin\Debug\netcoreapp3.1\HomeWork_new.dll
+D:\Practice\sln\sln\HomeWork_new\bin\Debug\netcoreapp3.1\HomeWork_new.pdb
+D:\Practice\sln\sln\HomeWork_new\obj\Debug\netcoreapp3.1\HomeWork_new.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\HomeWork_new\obj\Debug\netcoreapp3.1\HomeWork_new.AssemblyInfo.cs
+D:\Practice\sln\sln\HomeWork_new\obj\Debug\netcoreapp3.1\HomeWork_new.dll
+D:\Practice\sln\sln\HomeWork_new\obj\Debug\netcoreapp3.1\HomeWork_new.pdb

@@ -1,0 +1,4 @@
+D:\Practice\sln\sln\Tasks\bin\Debug\Tasks.exe
+D:\Practice\sln\sln\Tasks\bin\Debug\Tasks.pdb
+D:\Practice\sln\sln\Tasks\obj\x86\Debug\Tasks.exe
+D:\Practice\sln\sln\Tasks\obj\x86\Debug\Tasks.pdb

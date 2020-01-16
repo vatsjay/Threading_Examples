@@ -1,0 +1,11 @@
+D:\Practice\sln\sln\TaskExceptions\bin\Release\netcoreapp3.1\TaskExceptions.exe
+D:\Practice\sln\sln\TaskExceptions\bin\Release\netcoreapp3.1\TaskExceptions.deps.json
+D:\Practice\sln\sln\TaskExceptions\bin\Release\netcoreapp3.1\TaskExceptions.runtimeconfig.json
+D:\Practice\sln\sln\TaskExceptions\bin\Release\netcoreapp3.1\TaskExceptions.runtimeconfig.dev.json
+D:\Practice\sln\sln\TaskExceptions\bin\Release\netcoreapp3.1\TaskExceptions.dll
+D:\Practice\sln\sln\TaskExceptions\bin\Release\netcoreapp3.1\TaskExceptions.pdb
+D:\Practice\sln\sln\TaskExceptions\obj\Release\netcoreapp3.1\TaskExceptions.csprojAssemblyReference.cache
+D:\Practice\sln\sln\TaskExceptions\obj\Release\netcoreapp3.1\TaskExceptions.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\TaskExceptions\obj\Release\netcoreapp3.1\TaskExceptions.AssemblyInfo.cs
+D:\Practice\sln\sln\TaskExceptions\obj\Release\netcoreapp3.1\TaskExceptions.dll
+D:\Practice\sln\sln\TaskExceptions\obj\Release\netcoreapp3.1\TaskExceptions.pdb

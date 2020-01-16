@@ -1,0 +1,5 @@
+D:\Practice\sln\sln\Debugging1\bin\Release\Debugging.exe
+D:\Practice\sln\sln\Debugging1\bin\Release\Debugging.pdb
+D:\Practice\sln\sln\Debugging1\obj\x86\Release\Debugging.csprojAssemblyReference.cache
+D:\Practice\sln\sln\Debugging1\obj\x86\Release\Debugging.exe
+D:\Practice\sln\sln\Debugging1\obj\x86\Release\Debugging.pdb

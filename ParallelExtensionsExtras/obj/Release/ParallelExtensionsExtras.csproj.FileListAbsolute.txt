@@ -1,0 +1,5 @@
+D:\Practice\sln\sln\ParallelExtensionsExtras\bin\Release\ParallelExtensionsExtras.dll
+D:\Practice\sln\sln\ParallelExtensionsExtras\bin\Release\ParallelExtensionsExtras.pdb
+D:\Practice\sln\sln\ParallelExtensionsExtras\obj\Release\ParallelExtensionsExtras.csprojAssemblyReference.cache
+D:\Practice\sln\sln\ParallelExtensionsExtras\obj\Release\ParallelExtensionsExtras.dll
+D:\Practice\sln\sln\ParallelExtensionsExtras\obj\Release\ParallelExtensionsExtras.pdb

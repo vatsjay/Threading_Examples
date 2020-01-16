@@ -1,0 +1,4 @@
+D:\Practice\sln\sln\DataRace\bin\Release\DataRace.exe
+D:\Practice\sln\sln\DataRace\bin\Release\DataRace.pdb
+D:\Practice\sln\sln\DataRace\obj\x86\Release\DataRace.exe
+D:\Practice\sln\sln\DataRace\obj\x86\Release\DataRace.pdb

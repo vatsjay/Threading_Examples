@@ -1,0 +1,11 @@
+D:\Practice\sln\sln\Semaphore_Sync\bin\Debug\netcoreapp3.1\Semaphore_Sync.exe
+D:\Practice\sln\sln\Semaphore_Sync\bin\Debug\netcoreapp3.1\Semaphore_Sync.deps.json
+D:\Practice\sln\sln\Semaphore_Sync\bin\Debug\netcoreapp3.1\Semaphore_Sync.runtimeconfig.json
+D:\Practice\sln\sln\Semaphore_Sync\bin\Debug\netcoreapp3.1\Semaphore_Sync.runtimeconfig.dev.json
+D:\Practice\sln\sln\Semaphore_Sync\bin\Debug\netcoreapp3.1\Semaphore_Sync.dll
+D:\Practice\sln\sln\Semaphore_Sync\bin\Debug\netcoreapp3.1\Semaphore_Sync.pdb
+D:\Practice\sln\sln\Semaphore_Sync\obj\Debug\netcoreapp3.1\Semaphore_Sync.AssemblyInfoInputs.cache
+D:\Practice\sln\sln\Semaphore_Sync\obj\Debug\netcoreapp3.1\Semaphore_Sync.AssemblyInfo.cs
+D:\Practice\sln\sln\Semaphore_Sync\obj\Debug\netcoreapp3.1\Semaphore_Sync.dll
+D:\Practice\sln\sln\Semaphore_Sync\obj\Debug\netcoreapp3.1\Semaphore_Sync.pdb
+D:\Practice\sln\sln\Semaphore_Sync\obj\Debug\netcoreapp3.1\Semaphore_Sync.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Practice\sln\sln\Parallel\bin\Debug\Parallel.exe
+D:\Practice\sln\sln\Parallel\bin\Debug\Parallel.pdb
+D:\Practice\sln\sln\Parallel\obj\x86\Debug\Parallel.csprojAssemblyReference.cache
+D:\Practice\sln\sln\Parallel\obj\x86\Debug\Parallel.exe
+D:\Practice\sln\sln\Parallel\obj\x86\Debug\Parallel.pdb

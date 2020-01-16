@@ -1,0 +1,5 @@
+D:\Practice\sln\sln\DataRace\bin\Debug\DataRace.exe
+D:\Practice\sln\sln\DataRace\bin\Debug\DataRace.pdb
+D:\Practice\sln\sln\DataRace\obj\x86\Debug\DataRace.csprojAssemblyReference.cache
+D:\Practice\sln\sln\DataRace\obj\x86\Debug\DataRace.exe
+D:\Practice\sln\sln\DataRace\obj\x86\Debug\DataRace.pdb
